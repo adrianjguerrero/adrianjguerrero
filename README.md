@@ -2,8 +2,7 @@
 
 ![Adrianjguerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianjguerrero&hide=contribs,prs)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrianjguerrero)](https://git.io/streak-stats)
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrianjguerrero&short_numbers=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<!--
 **adrianjguerrero/adrianjguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
