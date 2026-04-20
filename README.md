@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+Systems Engineer
+
 ### About me
 
 I'm Adrian Guerrero, and this is my GitHub profile repository.
+
+![Adrianjguerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianjguerrero&hide=contribs,prs)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrianjguerrero)](https://git.io/streak-stats)
 
